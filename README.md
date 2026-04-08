@@ -141,5 +141,3 @@ Surprise: 30.00%
 Este projeto é open-source e pode ser usado livremente.
 
 ---
-
-Se quiser, posso adaptar esse README para GitHub com badges, GIFs ou versão em inglês 👍
